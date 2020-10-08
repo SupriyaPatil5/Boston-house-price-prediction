@@ -1,5 +1,7 @@
-#This project has been carried out in collaboration with Neelima Saini and Umesh Salunke.
 # Boston-house-price-prediction
+
+This project has been carried out in collaboration with Neelima Saini and Umesh Salunke.
+
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston. 
 
 The following describes the dataset columns: 
